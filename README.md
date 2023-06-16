@@ -12,6 +12,7 @@ AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
 ```
+![image](https://github.com/SanjeethTharmarajah/RandomPasswordGenerator/assets/130941252/048cc95c-7312-4303-b631-a7e3988762c5)
 
 ## Acceptance Criteria
 
